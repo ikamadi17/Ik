@@ -2,7 +2,7 @@ package org.hotel.algorithm;
 
 public class Test2 {
     public static void main(String[] args) {
-        int mark = 19;
+        int mark = 100;
         if (mark <40){
             System.out.println("Scored F");
         } else if (mark >= 40 && mark <= 49) {
